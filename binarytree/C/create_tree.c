@@ -62,11 +62,11 @@ void postorder(struct Node *holder){
 }
 
 void Inorder(struct Node *holder){
-	if(holder){
-		postorder(holder->left_child);
-		printf("%d ", holder->data);	
-		postorder(holder->right_child);
-	}
+        if(holder){
+                Inorder(holder->left_child);
+                printf("%d ", holder->data);
+                Inorder(holder->right_child);
+        }
 }
 
 int main(){
