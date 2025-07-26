@@ -1,9 +1,33 @@
 # Data Structures
-### implementation of Datastructure in C/C++ Programming Language.
-This Repository is based on the course of **"Mastering Data structures and Algorithms using C and C++"** by **Abdul Bari**.  
 
-# PULL REQUESTS OR FIXES (if any) ARE APPRECIATED !
+Collection of classic and advanced data structure implementations written in
+**C/C++**. The code is inspired by the course
+**"Mastering Data Structures and Algorithms using C and C++"** by **Abdul Bari**
+and is organised so each concept lives in its own folder.
 
+## Features
+
+- Examples for arrays, linked lists, trees, graphs, heaps and more
+- Simple, portable C/C++ code with minimal dependencies
+- Build every example at once with `make`
+- Suitable as a reference for students and hobbyists
+
+## Build
+
+Clone this repository and run `make` to compile all programs:
+
+```bash
+git clone https://github.com/najm09/DataStructure.git
+cd DataStructure
+make
+```
+
+Compiled binaries will be placed next to their source files with the `.app`
+extension.
+
+## Contributing
+
+Pull requests or fixes are always appreciated!
 
 ## Directories Description
 ### 1. [Arrays](https://github.com/najm09/DataStructure/tree/master/Arrays)
