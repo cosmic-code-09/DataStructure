@@ -97,4 +97,4 @@ Pull requests or fixes are always appreciated!
 ### 12. [Advanced : Not in Course](https://github.com/najm09/DataStructure/tree/master/Advanced)
   * [Binary indexed tree](https://github.com/najm09/DataStructure/blob/master/Advanced/binaryIndexTree.cpp)
   * [Trie](https://github.com/najm09/DataStructure/blob/master/Advanced/Trie.cpp)
-----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
